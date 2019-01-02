@@ -15,6 +15,9 @@ In this example the DOM is recalculated each time. You will find CSS and JS unde
 `index.2.html`
 This solution assigns an id to each element which corresponds to the class name of the element.
 The `reRender()` function here simply refreshes that element only and leaves the rest of the DOM intact.
+The CSS and JS is all under the `index.2.html` file in this example.
 
-## Personal Data Storage Test 
+Please use the inspect element in your browser to compare the two version and see that in Solution Two the only element that gets update is the one that is called to be updated.
+
+## User information Calculation and Data Storage Test
 Please find the presenation `DataStorageAndCalculation.key` send seperatelly via email.
