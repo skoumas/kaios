@@ -1,4 +1,4 @@
-#KAIOS Native React Emulation Clock
+# KAIOS Test
 In this demo we are creating a templating framework from scratch using only Vanilla code.
 
 There are two solutions submitted.
